@@ -3,10 +3,6 @@
 This repository contains the source code for a personal portfolio website.  
 The site highlights my background, projects, technical skills, and provides access to my resume.
 
-## Live Demo
-🌐 Portfolio: https://your-portfolio-link-here  
-📄 Resume (PDF): resume.pdf
-
 ## Overview
 This portfolio is designed to be simple, fast, and recruiter-friendly.  
 It is built with core web technologies and focuses on clarity, responsiveness, and accessibility.
