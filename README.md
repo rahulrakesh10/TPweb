@@ -19,9 +19,7 @@ It is built with core web technologies and focuses on clarity, responsiveness, a
 - `resume.pdf` – Downloadable resume  
 - `README.md` – Project documentation  
 
-## Running Locally
-Clone the repository and open `index.html` in any modern browser.
-No build tools or dependencies are required.
+
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
